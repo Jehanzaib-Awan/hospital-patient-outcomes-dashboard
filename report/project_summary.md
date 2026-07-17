@@ -1,5 +1,5 @@
 # Clinical Operations & Patient Outcomes Report
-**Prepared by:** MBBS Graduate & Healthcare Data Analyst
+**Prepared by:** jehanzaib 
 
 ## 1. Executive Metrics
 * **Total Patient Sample:** 20 admissions
