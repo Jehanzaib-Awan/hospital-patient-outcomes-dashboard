@@ -1,40 +1,63 @@
-# Healthcare Data Analytics: Patient Outcomes Analysis
+# Hospital Patient Outcomes Dashboard
 
 ## Overview
 
-This project explores healthcare data to identify patterns related to patient outcomes using data analytics techniques.
+A healthcare analytics project exploring patient outcomes, hospital operations, and healthcare trends using data analysis techniques.
+
+This project demonstrates how healthcare data can be organized, analyzed, and visualized to support evidence-based decision-making and healthcare improvement.
 
 ## Objectives
 
-- Perform healthcare data cleaning
-- Explore patient characteristics
-- Identify important trends
-- Visualize healthcare insights
+- Analyze hospital patient outcome patterns
+- Explore healthcare service utilization trends
+- Identify operational insights from healthcare data
+- Demonstrate the role of analytics in digital health and healthcare improvement
 
 ## Dataset
 
-Dataset:
-UCI Heart Disease Dataset
+The project uses a synthetic hospital dataset created for educational purposes.
 
-The dataset contains patient health indicators and outcome information.
+The dataset includes information related to:
+
+- Patient demographics
+- Hospital departments
+- Diagnoses
+- Length of hospital stay
+- Treatment categories
+- Patient outcomes
+- Satisfaction scores
 
 ## Tools Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+- Microsoft Excel
+- SQL
+- Power BI
 
-## Skills Demonstrated
+## Project Workflow
 
-- Healthcare Data Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Health Informatics
+1. Data collection and preparation
+2. Data cleaning and quality checks
+3. SQL-based data analysis
+4. Dashboard development
+5. Healthcare insights generation
 
-## Author Jehanzaib Awan
+## Key Areas of Analysis
+
+- Patient outcome trends
+- Department-level activity
+- Length of stay patterns
+- Healthcare service utilization
+
+## Healthcare Relevance
+
+Healthcare organizations increasingly rely on data analytics to improve quality of care, optimize operations, and support informed decision-making.
+
+This project explores how healthcare data can contribute to digital health transformation and improved healthcare delivery.
+
+## Author jehanzaib awan
+
+
+
 
 
 
