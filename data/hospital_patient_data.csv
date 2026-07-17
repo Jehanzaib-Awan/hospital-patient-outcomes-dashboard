@@ -1,1 +1,21 @@
-
+Patient_ID,Age,Gender,Department,Admission_Date,Diagnosis,Treatment_Type,Length_of_Stay,Outcome,Readmission_Status,Satisfaction_Score,Insurance_Type,Emergency_Status
+P0001,54,Male,Cardiology,2025-01-12,Hypertension,Medication,4,Recovered,No,8,Private,No
+P0002,67,Female,Emergency,2025-01-15,Stroke,Rehabilitation,12,Follow-up,Yes,6,Public,Yes
+P0003,42,Female,Orthopedics,2025-01-18,Fracture,Surgery,7,Recovered,No,9,Private,No
+P0004,78,Male,Neurology,2025-01-20,Dementia,Therapy,15,Stable,No,7,Public,No
+P0005,33,Female,General,2025-01-22,Infection,Antibiotics,3,Recovered,No,9,Public,No
+P0006,59,Male,Cardiology,2025-01-25,Arrhythmia,Medication,5,Recovered,No,8,Private,No
+P0007,72,Female,Emergency,2025-02-01,Myocardial Infarction,Surgery,10,Recovered,Yes,5,Public,Yes
+P0008,45,Male,Orthopedics,2025-02-03,Ligament Tear,Physiotherapy,6,Recovered,No,8,Private,No
+P0009,29,Female,General,2025-02-05,Gastritis,Medication,2,Recovered,No,10,Private,No
+P0010,81,Male,Neurology,2025-02-08,Stroke,Therapy,14,Stable,Yes,4,Public,Yes
+P0011,50,Female,Cardiology,2025-02-10,Hypertension,Medication,3,Recovered,No,9,Private,No
+P0012,62,Male,Emergency,2025-02-12,Appendicitis,Surgery,5,Recovered,No,7,Public,Yes
+P0013,38,Female,General,2025-02-15,Pneumonia,Antibiotics,6,Recovered,No,8,Public,No
+P0014,75,Male,Orthopedics,2025-02-18,Arthritis,Medication,4,Stable,No,6,Private,No
+P0015,47,Female,Cardiology,2025-02-20,Heart Failure,Surgery,11,Follow-up,Yes,5,Public,Yes
+P0016,55,Male,Neurology,2025-02-22,Migraine,Medication,2,Recovered,No,9,Private,No
+P0017,68,Female,General,2025-02-25,Diabetes,Insulin,5,Stable,No,7,Public,No
+P0018,40,Male,Orthopedics,2025-02-28,Fracture,Surgery,8,Recovered,No,8,Private,No
+P0019,31,Female,Emergency,2025-03-02,Asthma,Inhalers,3,Recovered,No,9,Private,No
+P0020,70,Male,Cardiology,2025-03-05,Arrhythmia,Medication,6,Recovered,No,8,Private,No
